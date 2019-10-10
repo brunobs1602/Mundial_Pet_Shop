@@ -1,0 +1,12 @@
+.carousel{
+	width: 55%;
+	height: 25%;
+}
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  transition-property: opacity;
+}
+
+a{
+	color: blue;
+}
