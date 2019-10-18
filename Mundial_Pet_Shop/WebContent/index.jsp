@@ -46,14 +46,14 @@
         <!-- Modal body -->
         <div class="modal-body">
         
-            <form action="logar.jsp" method="post">
+            <form action="login.jsp" method="post">
     <div class="form-group">
       <label for="email">E-mail:</label>
-      <input type="email" class="form-control" id="email" placeholder="Digite seu email..." name="emailLogin">
+      <input type="email" class="form-control" id="email" placeholder="Digite seu email..." name="email">
     </div>
     <div class="form-group">
       <label for="pwd">Senha:</label>
-      <input type="password" class="form-control" id="pwd" placeholder="Digite sua senha..." name="senhaLogin">
+      <input type="password" class="form-control" id="pwd" placeholder="Digite sua senha..." name="senha">
     </div>
     <div class="form-group form-check">
       <label class="form-check-label">
